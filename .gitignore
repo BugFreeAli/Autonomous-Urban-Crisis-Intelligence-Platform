@@ -1,0 +1,41 @@
+# Environment variables (CRITICAL)
+.env
+.env.local
+.env.*.local
+*.env
+
+# API Keys and Secrets
+client_secret.json
+credentials.json
+
+# Node & Frontend
+node_modules/
+npm-debug.log
+yarn-error.log
+.next/
+out/
+build/
+dist/
+
+# Python & Backend
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+pip-log.txt
+pytest_cache/
+
+# Mobile Apps & Capacitor
+android/
+ios/
+*.apk
+*.aab
+
+# OS / Editor / Logs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

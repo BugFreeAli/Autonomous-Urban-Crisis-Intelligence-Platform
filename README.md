@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="docs/images/ui-map.png" alt="Crisis OS — Tactical Map" width="280" />
-</p>
+
 
 <h1 align="center">Crisis OS</h1>
 <p align="center">
@@ -56,7 +54,6 @@ Cities drown in **noisy, contradictory signals** during a crisis — social post
 ---
 
 ## Interface
-
 Mobile **Crisis OS** — dark tactical aesthetic, cyan accent (`#4fd1c5`), five workspaces:
 
 <table>
@@ -66,7 +63,7 @@ Mobile **Crisis OS** — dark tactical aesthetic, cyan accent (`#4fd1c5`), five 
 ### Map
 Live Leaflet tactical map — incidents, resources, district stress.
 
-<p align="center"><img src="docs/images/ui-map.png" alt="Map view" width="100%"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/6b610cfa-cfb3-4de8-a619-3548fef84af2" alt="Map view" width="100%"/></p>
 
 </td>
 <td width="50%">
@@ -74,7 +71,7 @@ Live Leaflet tactical map — incidents, resources, district stress.
 ### Signals
 Incident feed + scenario triggers (simultaneous crises, contradictions, evacuation, exhaustion).
 
-<p align="center"><img src="docs/images/ui-signals.png" alt="Signals view" width="100%"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/da494b94-068f-4aa6-be70-670dd21f0013" width="100%"/></p>
 
 </td>
 </tr>
@@ -84,7 +81,7 @@ Incident feed + scenario triggers (simultaneous crises, contradictions, evacuati
 ### Resources
 Hospital load bars, unit status, dispatch ETAs.
 
-<p align="center"><img src="docs/images/ui-resources.png" alt="Resources view" width="100%"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/af169a33-dac2-424b-89ea-4fcf9377ae4e" alt="Resources view" width="100%"/></p>
 
 </td>
 <td width="50%">
@@ -92,7 +89,7 @@ Hospital load bars, unit status, dispatch ETAs.
 ### Terminal & Actions
 Agent reasoning stream + operational outcome cards (final decisions).
 
-<p align="center"><img src="docs/images/ui-terminal.png" alt="Terminal view" width="100%"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/6a72f1f3-6aec-4379-ad97-09a30d29ae5d" width="100%"/></p>
 
 </td>
 </tr>
